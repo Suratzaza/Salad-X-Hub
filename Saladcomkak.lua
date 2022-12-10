@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Salad X Hub                       FREE SCRIPT FOR EVERYONE", "Synapse")
+local Window = Library.CreateLib("Salad X Hub                       FREE SCRIPT FOR EVERYONE", "BloodTheme")
 local Tab = Window:NewTab("หมวดหมู่สคริป")
 local Section = Tab:NewSection("Unique Hub")
 Section:NewButton("คลิกเพื่อใช้", "สคริปUique Hub", function()
@@ -41,8 +41,24 @@ local Section = Tab:NewSection("Ripper Hub ในตำนาน")
 Section:NewButton("คลิกเพื่อใช้", "สคริปในตำนาน", function()
     print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/RipperHub/main/Loader.lua'))();
 end)
+
+
+ Section = Tab:NewSection("Ren HUB (รันไม่ติดเพราะกากเกิน)")
+ Section:NewButton("คลิกเพื่อใช้", "สคริปในตำนาน", function()
+    print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/xzenff/StoryX/main/README.md'))()
+
+
+end)
  Section = Tab:NewSection("Comming Soon")
  
+
+local Tab = Window:NewTab("Script For Dev ")
+Section = Tab:NewSection("Xenon hub (aimbot)")
+ Section:NewButton("คลิกเพื่อใช้", "สคริปในตำนาน", function()
+    print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/Xenon-Trash/Loader/main/Loader.lua')){58000,47231,89761,60830,62465,147762}
+end)
+
+
 
  local Tab = Window:NewTab("Credit ")
  local Section = Tab:NewSection("Cr Xqsrrrr #0781")

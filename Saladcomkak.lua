@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Salad X Hub             สคริปฟรีแต่ถ้าใช้อันนึงแล้วต้องออกมากดเอาใหม่เด้ออCr:Xqsrrrr", "Synapse")
+local Window = Library.CreateLib("Salad X Hub                       FREE SCRIPT FOR EVERYONE", "Synapse")
 local Tab = Window:NewTab("หมวดหมู่สคริป")
 local Section = Tab:NewSection("Unique Hub")
 Section:NewButton("คลิกเพื่อใช้", "สคริปUique Hub", function()
@@ -42,4 +42,10 @@ Section:NewButton("คลิกเพื่อใช้", "สคริปใน
     print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/RipperHub/main/Loader.lua'))();
 end)
  Section = Tab:NewSection("Comming Soon")
+ 
+
+ local Tab = Window:NewTab("Credit ")
+ local Section = Tab:NewSection("Cr Xqsrrrr #0781")
+
+ local Section = Tab:NewSection("https://discord.gg/uYJtxvvwAU")
 

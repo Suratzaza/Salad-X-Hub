@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Salad X Hub                       FREE SCRIPT FOR EVERYONE", "BloodTheme")
-local Tab = Window:NewTab("หมวดหมู่สคริป")
+local Tab = Window:NewTab("Blox fruits")
 local Section = Tab:NewSection("Unique Hub")
 Section:NewButton("คลิกเพื่อใช้", "สคริปUique Hub", function()
     print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/AkiraNus/UniquehubKak/main/FreeCr.Xenonhub"))(); 
@@ -51,17 +51,28 @@ end)
 end)
  Section = Tab:NewSection("Comming Soon")
  
-
+	
 local Tab = Window:NewTab("Script For Dev ")
 Section = Tab:NewSection("Xenon hub (aimbot)")
  Section:NewButton("คลิกเพื่อใช้", "สคริปในตำนาน", function()
     print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/Xenon-Trash/Loader/main/Loader.lua')){58000,47231,89761,60830,62465,147762}
 end)
+Section = Tab:NewSection("Maru Farm")
+Section:NewButton("คลิกเพื่อใช้", "ฟาร์มโครตโหดเหมือนกระโดดยิง", function()
+    print("Clicked"(getgenv()).key = "MARUBBUVHKOA7U7O9HH48JKFO";
+(getgenv()).id = "770964868937023509";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruComkak/main/PCBit.lua"))()
+end)
 
-
+local Tab = Window:NewTab("DOORS")
+Section = Tab:NewSection("Vynixius hub")
+Section:NewButton("คลิกเพื่อใช้", "สคริปในตำนาน", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+end)
 
  local Tab = Window:NewTab("Credit ")
- local Section = Tab:NewSection("Cr Xqsrrrr #0781")
+ 
+Section = Tab:NewSection("xq_srrrr #0781")
 
  local Section = Tab:NewSection("https://discord.gg/uYJtxvvwAU")
 

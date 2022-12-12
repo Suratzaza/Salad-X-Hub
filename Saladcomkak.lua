@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Salad X Hub                       FREE SCRIPT FOR EVERYONE", "BloodTheme")
+local Window = Library.CreateLib("Salad X Hub V1 (Thailand)", "BloodTheme")
 local Tab = Window:NewTab("Blox fruits")
 local Section = Tab:NewSection("Unique Hub")
 Section:NewButton("คลิกเพื่อใช้", "สคริปUique Hub", function()
@@ -35,6 +35,7 @@ local Section = Tab:NewSection("Mukuro Hub ตึงๆ")
 Section:NewButton("คลิกเพื่อใช้", "ฟาร์มโครตดีย์", function()
     print("Clicked")loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
 end)
+
 
 
 local Section = Tab:NewSection("Ripper Hub ในตำนาน")

@@ -57,10 +57,7 @@ Section = Tab:NewSection("Xenon hub (aimbot)")
  Section:NewButton("คลิกเพื่อใช้", "สคริปในตำนาน", function()
     print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/Xenon-Trash/Loader/main/Loader.lua')){58000,47231,89761,60830,62465,147762}
 end)
-Section = Tab:NewSection("Maru Farm")
-Section:NewButton("คลิกเพื่อใช้", "ฟาร์มโครตโหดเหมือนกระโดดยิง", function()
-    print("Clicked")
-end)
+
 
 local Tab = Window:NewTab("DOORS")
 Section = Tab:NewSection("Vynixius hub")

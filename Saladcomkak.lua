@@ -59,7 +59,7 @@ Section = Tab:NewSection("Xenon hub (aimbot)")
 end)
 Section = Tab:NewSection("Maru Farm")
 Section:NewButton("คลิกเพื่อใช้", "ฟาร์มโครตโหดเหมือนกระโดดยิง", function()
-    print("Clicked"(getgenv()).key = "MARUBBUVHKOA7U7O9HH48JKFO";
+    print("Clicked")(getgenv()).key = "MARUBBUVHKOA7U7O9HH48JKFO";
 (getgenv()).id = "770964868937023509";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruComkak/main/PCBit.lua"))()
 end)

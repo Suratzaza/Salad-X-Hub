@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Salad X Hub V1 (Thailand)", "BloodTheme")
+local Window = Library.CreateLib("Salad X Hub V1 (Thailand)", "Ocean")
 local Tab = Window:NewTab("Blox fruits")
 local Section = Tab:NewSection("Unique Hub")
 Section:NewButton("คลิกเพื่อใช้", "สคริปUique Hub", function()
